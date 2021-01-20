@@ -209,6 +209,57 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHXAKQOL
 
+[Document11]
+DocumentPath=panel_front.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HLSTCOIL
+
+[Document12]
+DocumentPath=panel_rear.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SRBSQBPR
+
+[Document13]
+DocumentPath=WR_Cute_Carrier.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=1ECBCF9A-FA1A-4637-A35C-7CF5D3DD048A
 Description=Default
@@ -221,6 +272,90 @@ Variation3=Designator=R2|UniqueId=\ECHIDYRL|Kind=1|AlternatePart=
 Variation4=Designator=R30|UniqueId=\LTBUVDEB\QRYOSYLD|Kind=1|AlternatePart= 
 Variation5=Designator=R31|UniqueId=\LTBUVDEB\XYAAJIDK|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\Generate Files\BOM\Bill of Materials-WR_Cute_Carrier.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for WR_Cute_Carrier\Design Rule Check - WR_Cute_Carrier.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Pick Place\Pick Place for WR_Cute_Carrier.txt
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\Generate Files\NC Drill\WR_Cute_Carrier-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\Generate Files\NC Drill\WR_Cute_Carrier-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Generate Files\NC Drill\WR_Cute_Carrier.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Free Documents\Generate Files\NC Drill\WR_Cute_Carrier.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\WR_Cute_Carrier.RUL
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
